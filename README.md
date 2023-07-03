@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandostark18" alt="fernandostark18" /></a> </p>
 
-- 🔭 I’m currently working on **TATA Consultancy Services as an IT Trainee**
+- 🔭 I’m currently working on **TATA Consultancy Services as a TechOps Implementation Engineer**
 
 - 🌱 I’m currently learning **C#**
 
