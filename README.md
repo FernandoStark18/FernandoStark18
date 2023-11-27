@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TATA Consultancy Services as a TechOps Implementation Engineer**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **fernandostark18@gmail.com**
 
